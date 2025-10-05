@@ -83588,7 +83588,7 @@ s.r.$1(new A.fq("Client Shut Down",A.aq(["Shutdown reason",a.a.b],r,r),!0))
 break $label0$0}}},
 amP(a,b){b.Z(t.T).r.$1(new A.AY(a,!1))},
 G(a){var s=null
-return new A.zp(new A.zl(new A.zF(B.Gz,this.gami(),this.gamO(),s),s),"Flutter Demo",A.us(s,A.IV(s,B.aa,B.Ld,s,s,s,s,B.k,s,s,B.k,B.DV,s,s,B.E9,B.EG,s,s,B.l,s,s,s,s,s,s,s,B.Lc,B.mU,s,s,s,B.n_,B.n_,s,s,B.mR,B.k,s,s,s,s,s,s,s,s,s,s,s,s,s),!0),s)}}
+return new A.zp(new A.zl(new A.zF(B.Gz,this.gami(),this.gamO(),s),s),"Kinnow Mqtt Demo",A.us(s,A.IV(s,B.aa,B.Ld,s,s,s,s,B.k,s,s,B.k,B.DV,s,s,B.E9,B.EG,s,s,B.l,s,s,s,s,s,s,s,B.Lc,B.mU,s,s,s,B.n_,B.n_,s,s,B.mR,B.k,s,s,s,s,s,s,s,s,s,s,s,s,s),!0),s)}}
 A.e9.prototype={
 I(){return"MqttActions."+this.b}}
 A.wm.prototype={
